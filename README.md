@@ -1,6 +1,6 @@
 
 ## Demo
-Versi live bisa diakses di [roro-jet.vercel.app](roro-jet.vercel.app)
+Versi live bisa diakses di [https://roro-jet.vercel.app/](https://roro-jet.vercel.app/)
 
 # Roro Jonggrang - Game Interaktif
 
