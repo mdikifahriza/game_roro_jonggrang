@@ -1,3 +1,7 @@
+
+## Demo
+Versi live bisa diakses di [roro-jet.vercel.app](roro-jet.vercel.app)
+
 # Roro Jonggrang - Game Interaktif
 
 Game interaktif berbasis cerita legenda Roro Jonggrang yang dibangun dengan React Native dan Expo, menampilkan quiz, dialog interaktif, dan ilustrasi scene yang menarik.
